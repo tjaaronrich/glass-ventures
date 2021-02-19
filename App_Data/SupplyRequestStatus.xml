@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SupplyRequestStatus>
+	<Status StatusCode="REQUESTED" StatusName="REQUESTED" />
+	<Status StatusCode="APPROVED" StatusName="APPROVED" />
+	<Status StatusCode="ORDERED" StatusName="ORDERED" />
+	<Status StatusCode="COMPLETED" StatusName="COMPLETED" />
+</SupplyRequestStatus>

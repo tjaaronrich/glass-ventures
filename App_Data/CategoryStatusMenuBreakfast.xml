@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<StatusList>
+	<Status StatusCode="Sandwiches" StatusName="Sandwiches" />
+	<Status StatusCode="Platters" StatusName="Platters" />
+	<Status StatusCode="Omelet" StatusName="Omelet" />
+	<Status StatusCode="Sides" StatusName="Sides" />
+	<Status StatusCode="Drinks" StatusName="Drinks" />
+</StatusList>

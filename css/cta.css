@@ -1,0 +1,20 @@
+
+.box-link .box-cta
+{
+	background-color: transparent;
+	transition: all .3s ease-in-out;
+}
+.box-link:hover .box-cta
+{
+	background-color: white;
+}
+
+.box-link .box-cta h4
+{
+	color:white;
+	transition: all .3s ease-in-out;
+}
+.box-link:hover .box-cta h4
+{
+	color: #c23f33;
+}

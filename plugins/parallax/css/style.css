@@ -1,0 +1,64 @@
+/* ============================================================
+  SECTIONS
+============================================================ */
+section.module:last-child {
+  margin-bottom: 0;
+}
+section.module h2 {
+  margin-bottom: 40px;
+  font-family: "Roboto Slab", serif;
+  font-size: 30px;
+}
+section.module p {
+  margin-bottom: 40px;
+  font-size: 16px;
+  font-weight: 300;
+}
+section.module p:last-child {
+  margin-bottom: 0;
+}
+section.module.content {
+  padding: 40px 0;
+}
+section.module.parallax {
+  height: 296px;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+section.module.parallax h1 {
+  color: white;
+  text-align: center;
+  padding-top:105px;
+  font-size:84px;
+}
+section.module.parallax-1 {
+  background-image: url("../img/demo/_small/4.jpg");
+}
+section.module.parallax-2 {
+  background-image: url("../img/demo/_small/6.jpg");
+}
+section.module.parallax-3 {
+  background-image: url("../img/demo/_small/3.jpg");
+}
+
+@media all and (min-width: 600px) {
+  section.module h2 {
+    font-size: 42px;
+  }
+  section.module p {
+    font-size: 20px;
+  }
+  section.module.parallax h1 {
+    
+  }
+}
+@media all and (min-width: 960px) {
+  section.module.parallax h1 {
+    
+  }
+}

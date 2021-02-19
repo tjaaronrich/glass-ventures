@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LinkStatus>
+	<Status StatusCode="State Applications" StatusName="State Applications" />
+	<Status StatusCode="DEO Resources" StatusName="DEO Resources" />
+	<Status StatusCode="Travel Info" StatusName="Travel Info" />
+	<Status StatusCode="Internet Usage" StatusName="Internet Usage" />
+	<Status StatusCode="Staff Resources" StatusName="Staff Resources" />
+	<Status StatusCode="Case Manager Resources" StatusName="Case Manager Resources" />
+	<Status StatusCode="Online Information" StatusName="Online Information" />
+	<Status StatusCode="Security Awareness and Training" StatusName="Security Awareness and Training" />
+</LinkStatus>

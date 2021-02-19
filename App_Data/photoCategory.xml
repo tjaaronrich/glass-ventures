@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<StatusList>
+	<Status statusCode="Residential" statusName="Residential" />
+	<Status statusCode="Senior Living" statusName="Senior Living" />
+	<Status statusCode="Weddings" statusName="Weddings" />
+</StatusList>

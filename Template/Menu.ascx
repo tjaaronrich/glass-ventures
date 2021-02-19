@@ -1,0 +1,7 @@
+<h3 style="text-transform:uppercase;"><strong><font color="#315487">Menus</font></strong></h3>
+<h5>Downloadable Menus</h5>
+<p style="margin-left:0px; margin-bottom:5px; margin-top:20px;"><strong><img src="Graphics/Highlight_09.png" width="20" height="9"><a href="Documents/Downloads/Cahalls-Menu-Breakfast.pdf" target="_blank" class="Black">Breakfast</a></strong></p>
+<p style="margin-left:0px; margin-bottom:5px"><strong><img src="Graphics/Highlight_09.png" width="20" height="9"><a href="Documents/Downloads/MenuCatering.pdf" target="_blank" class="Black">Catering</a></strong></p>
+<p style="margin-left:0px; margin-bottom:5px"><strong><img src="Graphics/Highlight_09.png" width="20" height="9"><a href="Documents/Downloads/MenuSandwich.pdf" target="_blank" class="Black">Sandwich</a></strong></p> 
+<p style="margin-left:0px; margin-bottom:5px"><strong><img src="Graphics/Highlight_09.png" width="20" height="9"><a href="Documents/Downloads/MenuByThePound.pdf" target="_blank" class="Black">By The Pound</a></strong></p>
+<p style="margin-left:0px; margin-bottom:0px"><strong><img src="Graphics/Highlight_09.png" width="20" height="9"><a href="Documents/Downloads/Cahalls-Menu-Holiday.pdf" target="_blank" class="Black">Holiday</a></strong></p>

@@ -1,0 +1,330 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+/* Demo Section CSS */
+
+@media only screen and (min-width: 1200px){
+
+	html {
+
+		line-height: 1;
+
+	}
+
+}
+
+.avatar-status img {
+
+    width: 29px;
+
+    max-width: 100%;
+
+    height: 29px;
+
+    background: #092f41;
+
+    border: 0 none;
+
+    border-radius: 1000px;
+
+}
+
+.navbar-color
+
+{
+
+	background: linear-gradient(90deg, #092f41, #0097a7 )!important;
+
+}
+
+.ribbonlabel > div 
+
+{
+
+	top:7px!important;
+
+}
+
+.jsml_label > div
+
+{
+
+	/*top: -11px!important;*/
+
+    left: 0px!important;
+
+}
+
+.fieldlist {
+
+	margin: 0 0 -1em;
+
+	padding: 0;
+
+}
+
+
+
+.fieldlist li {
+
+	list-style: none;
+
+	padding-bottom: 1em;
+
+	line-height: 3em;
+
+}
+
+
+
+.fieldlist label {
+
+	display: block;
+
+	font-weight: bold;
+
+	text-transform: uppercase;
+
+	font-size: 12px;
+
+	color: #444;
+
+}
+
+.demo-section.k-content {
+
+    box-shadow: 0 1px 2px 1px rgba(0,0,0,.08), 0 3px 6px rgba(0,0,0,.08);
+
+}
+
+.demo-section:not(.wide), #exampleWrap .box:not(.wide) {
+
+    /*max-width: 400px;*/
+
+}
+
+.demo-section {
+
+    margin: 0 auto 4.5em;
+
+    padding: 0 1.5em;
+
+    border: 1px solid rgba(20,53,80,0.14);
+
+	margin-bottom:20px;
+
+}
+
+
+
+/*----------------------*/
+
+.site_title
+
+{
+
+	padding:0;
+
+}
+
+.k-grid-ViewDetails
+
+{
+
+	height:35px;
+
+}
+
+.k-grid-ViewDetails > span
+
+{
+
+	position: absolute;
+
+	height:0px;
+
+}
+
+#grid
+
+{
+
+/*border-width: 0;
+
+height: 100%;*/ /* DO NOT USE !important for setting the Grid height! */
+
+}
+
+.k-header.k-grid-toolbar
+
+{
+
+	background-color:#0097a7;
+
+}
+
+.k-gantt-toolbar .k-button, .k-gantt>.k-header .k-link, .k-gantt>.k-header li, .k-grid .k-header .k-button, .k-scheduler .k-header .k-button, .k-scheduler .k-header .k-link, .k-scheduler .k-header li, .km-pane-wrapper .k-header .k-button
+
+{
+
+	background-color:#0097a7;
+
+	border-color:#0097a7;
+
+}
+
+.k-gantt .k-gantt-toolbar .k-button:hover, .k-gantt .k-gantt-toolbar .k-gantt-views li.k-state-hover, .k-gantt .k-gantt-toolbar .k-gantt-views li.k-state-hover .k-link, .k-grid .k-header .k-button:hover, .k-scheduler .k-header .k-button:hover, .k-scheduler .k-scheduler-toolbar .k-scheduler-views li.k-state-hover, .k-scheduler .k-scheduler-toolbar .k-scheduler-views li.k-state-hover .k-link, .km-pane-wrapper .k-header .k-button:hover
+
+{
+
+	background-color: #00b8cc;
+
+    border-color: #00b8cc;
+
+}
+
+.k-header.k-grid-toolbar
+
+{
+
+	background-color:#0097a7;
+
+	border-color:#0097a7;
+
+}
+
+.k-pager-numbers .k-state-selected
+
+{
+
+	border-color: #0097a7 transparent transparent;
+
+    border-radius: 0;
+
+    -webkit-box-shadow: none;
+
+    box-shadow: none;
+
+    color: #0097a7;
+
+}
+
+.k-list>.k-state-selected.k-state-focused
+
+{
+
+	color: #0097a7;
+
+}
+
+span.k-dropdown
+
+{
+
+	width:100%;
+
+}
+
+.k-widget .k-button.k-state-active:hover, .k-widget .k-button:active:hover
+
+{
+
+	color:#fff;
+
+}
+
+.x_panel
+
+{
+
+	box-shadow: 0 1px 2px 1px rgba(0,0,0,.08), 0 3px 6px rgba(0,0,0,.08);
+
+}
+
+.km-actionsheet>li>a, .km-actionsheet>li>a:active, .km-actionsheet>li>a:hover, .km-badge, .km-popover-root .km-widget, .km-popup .k-item, .km-popup .k-state-focused, .km-popup .k-state-hover, .km-popup .k-state-selected, .km-rowdelete, .km-rowinsert, .km-scroller-pull .km-icon, .km-state-active .km-listview-link:after, .km-switch-label-off, .km-switch-label-on, .km-tabstrip .km-button, .km-tabstrip .km-state-active, html .km-state-active, li.km-state-active .km-listview-label, li.km-state-active .km-listview-link{
+
+	
+
+	color: #0097a7;
+
+}
+
+
+
+.k-upload-pct {
+
+    margin-right: -2em;
+
+    top: 20px;
+
+	position: relative;
+
+
+
+
+
+}
+
+.k-window-titlebar.k-header
+
+{
+
+	background-color:#0097a7;
+
+}
+
+.k-window-titlebar .k-state-hover {
+
+    background-color: #00b8cc;
+
+    border-color: #00b8cc;
+
+}
+
+
+
+
+
+#datePicker1RemoveSide_root .picker__date-display
+
+{
+
+	position: absolute;
+
+	visibility: hidden;
+
+	width: 0;
+
+	height: 0;
+
+}
+
+
+
+
+
+#datePicker2RemoveSide_root .picker__date-display
+
+{
+
+	position: absolute;
+
+	visibility: hidden;
+
+	width: 0;
+
+	height: 0;
+
+}
+
+
+
+.k-formatted-value .k-input
+
+{
+
+	margin: 0!important;
+
+}
+

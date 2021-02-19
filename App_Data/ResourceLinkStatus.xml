@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LinkStatus>
+	<Status StatusCode="Services for Individuals" StatusName="Services for Individuals" />
+	<Status StatusCode="Additional Services" StatusName="Additional Services" />
+	<Status StatusCode="More Job Search Services" StatusName="More Job Search Services" />
+</LinkStatus>

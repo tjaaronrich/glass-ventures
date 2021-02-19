@@ -1,0 +1,18 @@
+@import '../plugins/materialize/css/materialize.css';
+
+@import '../framework/bootstrap/vendor/bootstrap/css-4/bootstrap.min.css';
+
+@import '../scss/theme/theme.scss';
+
+@import '../css/custom.css';
+
+body
+
+{
+
+background-color:white;
+
+}
+
+
+

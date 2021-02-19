@@ -1,0 +1,199 @@
+/* Default Styles*/
+
+P{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-decoration: none;
+}
+H1{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+/* H2 = Page Header */
+H2{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-decoration: none;
+}
+/* H3 = Secondary Header*/
+H3{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+}
+H4{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+}
+H5{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	font-weight: normal;
+	font-variant: normal;
+}
+H6{font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	font-weight: normal;
+	font-variant: normal;}
+
+a:link {
+	color: #0000FF;
+	text-decoration: underline;
+}
+a:visited {
+	color: #0000FF;
+	text-decoration: underline;
+}
+a:active {
+	color: #0000FF;
+	text-decoration: underline;
+}
+a:hover {
+	text-decoration: none;
+	color: #0000FF;
+}
+
+/* Default Colors - normal with underline on hover */
+
+.Black{color: #000000; text-decoration: none;}
+a.Black:Hover{color: #000000; text-decoration: underline;}
+a.Black:Visited{color: #000000; text-decoration: none;}
+a.Black:Link{color: #000000; text-decoration: none;}
+
+.White{color: #FFFFFF; text-decoration: none;}
+a.White:Hover{color: #FFFFFF; text-decoration: underline;}
+a.White:Visited{color: #FFFFFF; text-decoration: none;}
+a.White:Link{color: #FFFFFF; text-decoration: none;}
+
+.Red{color: #FF0000; text-decoration: none;}
+a.Red:Hover{color: #FF0000; text-decoration: underline;}
+a.Red:Visited{color: #FF0000; text-decoration: none;}
+a.Red:Link{color: #FF0000; text-decoration: none;}
+
+.Green{color: #66CC00; text-decoration: none;}
+a.Green:Hover{color: #66CC00; text-decoration: underline;}
+a.Green:Visited{color: #66CC00; text-decoration: none;}
+a.Green:Link{color: #66CC00; text-decoration: none;}
+
+.Blue{color: #0000CC; text-decoration: none;}
+a.Blue:Hover{color: #0000CC; text-decoration: underline;}
+a.Blue:Visited{color: #0000CC; text-decoration: none;}
+a.Blue:Link{color: #0000CC; text-decoration: none;}
+
+.Orange{color: #FF6600; text-decoration: none;}
+a.Orange:Hover{color: #FF6600; text-decoration: underline;}
+a.Orange:Visited{color: #FF6600; text-decoration: none;}
+a.Orange:Link{color: #FF6600; text-decoration: none;}
+
+.Purple{color: #660099; text-decoration: none;}
+a.Purple:Hover{color: #660099; text-decoration: underline;}
+a.Purple:Visited{color: #660099; text-decoration: none;}
+a.Purple:Link{color: #660099; text-decoration: none;}
+
+.Yellow{color: #FFFF00; text-decoration: none;}
+a.Yellow:Hover{color: #FFFF00; text-decoration: underline;}
+a.Yellow:Visited{color: #FFFF00; text-decoration: none;}
+a.Yellow:Link{color: #FFFF00; text-decoration: none;}
+
+/* Default Colors - Underlined with normal on hover */
+
+.Blacku{color: #000000; text-decoration: underline;}
+a.Blacku:Hover{color: #000000; text-decoration: none;}
+a.Blacku:Visited{color: #000000; text-decoration: underline;}
+a.Blacku:Link{color: #000000; text-decoration: underline;}
+
+.Whiteu{color: #FFFFFF; text-decoration: underline;}
+a.Whiteu:Hover{color: #FFFFFF; text-decoration: none;}
+a.Whiteu:Visited{color: #FFFFFF; text-decoration: underline;}
+a.Whiteu:Link{color: #FFFFFF; text-decoration: underline;}
+
+.Redu{color: #FF0000; text-decoration: underline;}
+a.Redu:Hover{color: #FF0000; text-decoration: none;}
+a.Redu:Visited{color: #FF0000; text-decoration: underline;}
+a.Redu:Link{color: #FF0000; text-decoration: underline;}
+
+.Greenu{color: #66CC00; text-decoration: underline;}
+a.Greenu:Hover{color: #66CC00; text-decoration: none;}
+a.Greenu:Visited{color: #66CC00; text-decoration: underline;}
+a.Greenu:Link{color: #66CC00; text-decoration: underline;}
+
+.Blueu{color: #5a7b95; text-decoration: underline;}
+a.Blueu:Hover{color: #5a7b95; text-decoration: none;}
+a.Blueu:Visited{color: #5a7b95; text-decoration: underline;}
+a.Blueu:Link{color: #5a7b95; text-decoration: underline;}
+
+.Orangeu{color: #FF6600; text-decoration: underline;}
+a.Orangeu:Hover{color: #FF6600; text-decoration: none;}
+a.Orangeu:Visited{color: #FF6600; text-decoration: underline;}
+a.Orangeu:Link{color: #FF6600; text-decoration: underline;}
+
+.Purpleu{color: #660099; text-decoration: underline;}
+a.Purpleu:Hover{color: #660099; text-decoration:none;}
+a.Purpleu:Visited{color: #660099; text-decoration: underline;}
+a.Purpleu:Link{color: #660099; text-decoration: underline;}
+
+.Yellowu{color: #FFFF00; text-decoration: underline;}
+a.Yellowu:Hover{color: #FFFF00; text-decoration: none;}
+a.Yellowu:Visited{color: #FFFF00; text-decoration: underline;}
+a.Yellowu:Link{color: #FFFF00; text-decoration: underline;}
+
+/* Global styles*/
+
+Html{
+	margin: 0px;
+	padding: 0px;
+}
+Body{margin: 0px;
+	padding: 0px;
+	line-height: 1;
+}
+.center{
+	text-align: center;
+}
+.left{
+	text-align: left;
+}
+.right{
+	text-align: right;
+}
+
+/* Nav Button Styles*/
+/*
+a.Nav_Image:link{}
+a.Nav_Image:Hover {}
+a.Nav_Image:Visited{}
+*/
+/* Ie Reset*/
+/* Make sure the layout is centered in IE5 */
+body        { text-align: center; }
+.container  { text-align: left; }
+
+
+/* This fixes the problem where IE6 adds an extra 3px margin to
+   two columns that are floated up against each other. */
+
+* html .column { overflow-x: hidden; } /* IE6 fix */
+
+
+/* Fixes incorrect styling of legend in IE6 fieldsets. */
+legend { margin-bottom:1.4em; }
+
+/* Fixes incorrect placement of numbers in ol's in IE6/7 */
+ol { margin-left:2em; }

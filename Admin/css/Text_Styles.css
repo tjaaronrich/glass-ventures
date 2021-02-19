@@ -1,0 +1,440 @@
+/* Default Styles*/
+
+P{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	margin: 0px;
+	color: #3a3a3a;
+}
+H1{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FFFFFF;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 50px;
+	text-transform: uppercase;
+}
+/* H2 = Page Header */
+H2{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-decoration: none;
+	color: #178fc0;
+	margin: 0px;
+}
+/* H3 = Secondary Header*/
+H3{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #c0c0c0;
+}
+H4{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #64674d;
+	margin: 0px;
+}
+H5{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	font-weight: normal;
+	margin: 0px;
+}
+H6{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	letter-spacing: 1px;
+	color: #000000;
+	text-transform: uppercase;
+	margin: 0px;
+}
+.H7{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	margin-right: 8px;
+	margin-left: 12px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	color: #555555;
+}
+a:{color: #323232; text-decoration: none;}
+a:Visited{
+	color: #323232;
+	text-decoration: underline;
+}
+a:Link{
+	color: #323232;
+	text-decoration: underline;
+}
+a:Hover{
+	color: #323232;
+	text-decoration: none;
+}
+
+/* Tables - DataGrid */
+.DataGridTable{}
+.DataGridTable A{color: #000000; text-decoration: underline;}
+.DataGridTable A:Visited{
+	color: #000000;
+	text-decoration: underline;
+}
+.DataGridTable A:Link{
+	color: #000000;
+	text-decoration: underline;
+}
+.DataGridTable A:Hover{
+	color: #000000;
+	text-decoration: none;
+}
+
+/* Default Colors - normal with underline on hover */
+a.Nav{color: #ffffff; text-decoration: none;}
+a.Nav:Visited{color: #ffffff; text-decoration: none;}
+a.Nav:Link{color: #ffffff; text-decoration: none;}
+a.Nav:Hover{color: #18a7e1; text-decoration: none;}
+
+a.Black{color: #000000; text-decoration: none;}
+a.Black:Visited{color: #000000; text-decoration: none;}
+a.Black:Link{color: #000000; text-decoration: none;}
+a.Black:Hover{color: #000000; text-decoration: underline;}
+
+.White{color: #FFFFFF; text-decoration: none;}
+a.White:Visited{color: #FFFFFF; text-decoration: none;}
+a.White:Link{color: #FFFFFF; text-decoration: none;}
+a.White:Hover{color: #FFFFFF; text-decoration: underline;}
+
+.Red{
+	color: #CC0000;
+	text-decoration: none;
+}
+a.Red:Visited{
+	color: #990000;
+	text-decoration: none;
+}
+a.Red:Link{
+	color: #990000;
+	text-decoration: none;
+}
+a.Red:Hover{
+	color: #990000;
+	text-decoration: underline;
+}
+
+.Green{
+	color: #41483a;
+	text-decoration: none;
+}
+a.Green:Visited{
+	color: #41483a;
+	text-decoration: none;
+}
+a.Green:Link{
+	color: #41483a;
+	text-decoration: none;
+}
+a.Green:Hover{
+	color: #41483a;
+	text-decoration: underline;
+}
+
+.Brown{
+	color: #64674d;
+	text-decoration: none;
+}
+a.Brown:Visited{
+	color: #64674d;
+	text-decoration: none;
+}
+a.Brown:Link{
+	color: #64674d;
+	text-decoration: none;
+}
+a.Brown:Hover{
+	color: #64674d;
+	text-decoration: underline;
+}
+
+.Blue{
+	color: 2a8cc9;
+	text-decoration: none;
+}
+a.Blue:Visited{
+	color: 2a8cc9;
+	text-decoration: none;
+}
+a.Blue:Link{
+	color: 2a8cc9;
+	text-decoration: none;
+}
+a.Blue:Hover{
+	color: 2a8cc9;
+	text-decoration: underline;
+}
+
+.BlueLight{
+	color: #a4e2fb;
+	text-decoration: none;
+}
+a.BlueLight:Visited{
+	color: #a4e2fb;
+	text-decoration: none;
+}
+a.BlueLight:Link{
+	color: #a4e2fb;
+	text-decoration: none;
+}
+a.BlueLight:Hover{
+	color: #a4e2fb;
+	text-decoration: underline;
+}
+
+.Orange{color: #FF6600; text-decoration: none;}
+a.Orange:Visited{color: #FF6600; text-decoration: none;}
+a.Orange:Link{color: #FF6600; text-decoration: none;}
+a.Orange:Hover{color: #FF6600; text-decoration: underline;}
+
+.Purple{color: #660099; text-decoration: none;}
+a.Purple:Visited{color: #660099; text-decoration: none;}
+a.Purple:Link{color: #660099; text-decoration: none;}
+a.Purple:Hover{color: #660099; text-decoration: underline;}
+
+.Yellow{color: #FFFF00; text-decoration: none;}
+a.Yellow:Visited{color: #FFFF00; text-decoration: none;}
+a.Yellow:Link{color: #FFFF00; text-decoration: none;}
+a.Yellow:Hover{color: #FFFF00; text-decoration: underline;}
+
+.Gray2{
+	color: aaaaaa;
+	text-decoration: none;
+}
+a.Gray2:Visited{
+	color: aaaaaa;
+	text-decoration: none;
+}
+a.Gray2:Link{
+	color: aaaaaa;
+	text-decoration: none;
+}
+a.Gray2:Hover{
+	color: aaaaaa;
+	text-decoration: underline;
+}
+
+.Gray{
+	color: 898989;
+	text-decoration: none;
+}
+a.Gray:Visited{
+	color: 898989;
+	text-decoration: none;
+}
+a.Gray:Link{
+	color: 898989;
+	text-decoration: none;
+}
+a.Gray:Hover{
+	color: 898989;
+	text-decoration: underline;
+}
+
+/* Default Colors - Underlined with normal on hover */
+
+.Blacku{color: #000000; text-decoration: underline;}
+a.Blacku:Visited{color: #000000; text-decoration: underline;}
+a.Blacku:Link{color: #000000; text-decoration: underline;}
+a.Blacku:Hover{color: #000000; text-decoration: none;}
+
+.Whiteu{color: #FFFFFF; text-decoration: underline;}
+a.Whiteu:Visited{color: #FFFFFF; text-decoration: underline;}
+a.Whiteu:Link{color: #FFFFFF; text-decoration: underline;}
+a.Whiteu:Hover{color: #FFFFFF; text-decoration: none;}
+
+.Redu{
+	color: #990000;
+	text-decoration: underline;
+}
+a.Redu:Visited{
+	color: #990000;
+	text-decoration: underline;
+}
+a.Redu:Link{
+	color: #990000;
+	text-decoration: underline;
+}
+a.Redu:Hover{
+	color: #990000;
+	text-decoration: none;
+}
+
+.Greenu{
+	color: 88a32e;
+	text-decoration: underline;
+}
+a.Greenu:Visited{
+	color: 88a32e;
+	text-decoration: underline;
+}
+a.Greenu:Link{
+	color: 88a32e;
+	text-decoration: underline;
+}
+a.Greenu:Hover{
+	color: 88a32e;
+	text-decoration: none;
+}
+
+.Blueu{
+	color: 011da8;
+	text-decoration: underline;
+}
+a.Blueu:Visited{
+	color: 011da8;
+	text-decoration: underline;
+}
+a.Blueu:Link{
+	color: 011da8;
+	text-decoration: underline;
+}
+a.Blueu:Hover{
+	color: 011da8;
+	text-decoration: none;
+}
+
+.Orangeu{color: #FF6600; text-decoration: underline;}
+a.Orangeu:Visited{color: #FF6600; text-decoration: underline;}
+a.Orangeu:Link{color: #FF6600; text-decoration: underline;}
+a.Orangeu:Hover{color: #FF6600; text-decoration: none;}
+
+.Purpleu{color: #660099; text-decoration: underline;}
+a.Purpleu:Visited{color: #660099; text-decoration: underline;}
+a.Purpleu:Link{color: #660099; text-decoration: underline;}
+a.Purpleu:Hover{color: #660099; text-decoration:none;}
+
+.Yellowu{color: #FFFF00; text-decoration: underline;}
+a.Yellowu:Visited{color: #FFFF00; text-decoration: underline;}
+a.Yellowu:Link{color: #FFFF00; text-decoration: underline;}
+a.Yellowu:Hover{color: #FFFF00; text-decoration: none;}
+
+.Grayu{color: #b2b2b2; text-decoration: underline;}
+a.Grayu:Visited{color: #b2b2b2; text-decoration: underline;}
+a.Grayu:Link{color: #b2b2b2; text-decoration: underline;}
+a.Grayu:Hover{color: #b2b2b2; text-decoration: none;}
+
+/* Global styles*/
+
+Html{
+	margin: 0px;
+	padding: 0px;
+}
+Body{margin: 0px;
+	padding: 0px;
+	line-height: 1;
+}
+.center{
+	text-align: center;
+}
+.left{
+	text-align: left;
+}
+.right{
+	text-align: right;
+}
+
+/* Nav Button Styles*/
+/*
+a.Nav_Image:link{}
+a.Nav_Image:Hover {}
+a.Nav_Image:Visited{}
+*/
+/* Ie Reset*/
+/* Make sure the layout is centered in IE5 */
+body        { text-align: center; }
+.container  { text-align: left; }
+
+
+/* This fixes the problem where IE6 adds an extra 3px margin to
+   two columns that are floated up against each other. */
+
+* html .column { overflow-x: hidden; } /* IE6 fix */
+
+
+/* Fixes incorrect styling of legend in IE6 fieldsets. */
+legend { margin-bottom:1.4em; }
+
+/* Fixes incorrect placement of numbers in ol's in IE6/7 */
+ol { margin-left:2em; }
+#sddm
+{	margin: 0;
+	padding: 0;
+	z-index: 40000}
+
+#sddm li
+{	margin: 0;
+	padding: 0;
+	list-style: none;
+	float: left;
+	z-index: 40000;
+	text-decoration: none;
+	font: bold 13px arial}
+
+#sddm li a
+{	display: block;
+	/* margin: 0 1px 0 0; 
+	padding: 4px 10px;
+	width: 60px;
+	background: #5970B2;
+	color: #FFF;
+	text-align: center;*/
+	z-index: 40000;
+	text-decoration: none}
+
+ #sddm li a:hover
+{	text-decoration: underline}
+
+#sddm div
+{	position: absolute;
+	visibility: hidden;
+	margin-left:9px;
+	/* margin: 0; */
+	padding: 0;
+	background: #ffffff;
+	z-index: 40000;
+	border: 0px solid #c7d8e0}
+
+	#sddm div a
+	{	position: relative;
+		display: block;
+		margin: 0;
+		padding: 5px 15px;
+		width: auto;
+		white-space: nowrap;
+		text-align: left;
+		text-decoration: none;
+		background: #ffffff;
+		border: 1px solid #eae8e5;
+		color: #000000;
+		z-index: 40000;
+		font: 13px arial}
+
+	#sddm div a:hover
+	{	background: #eae8e5;
+		z-index: 40000;
+		color: #000000}

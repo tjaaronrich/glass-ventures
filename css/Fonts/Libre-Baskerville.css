@@ -1,0 +1,22 @@
+
+@font-face {
+    font-family: LibreBaskerville;
+    src: url("/Fonts/LibreBaskerville/LibreBaskerville-Regular.otf") format("opentype"),
+   	url('/Fonts/LibreBaskerville/LibreBaskerville-Regular.woff') format('woff'), 
+   	url('/Fonts/LibreBaskerville/LibreBaskerville-Regular.ttf')  format('truetype');
+}
+@font-face {
+    font-family: LibreBaskervilleItalic;
+	font-style: italic;
+    font-weight: 700;
+    src: url("/Fonts/LibreBaskerville/LibreBaskerville-Italic.otf") format("opentype"),
+   	url('/Fonts/LibreBaskerville/LibreBaskerville-Italic.woff') format('woff'), 
+   	url('/Fonts/LibreBaskerville/LibreBaskerville-Italic.ttf')  format('truetype');
+}
+@font-face {
+    font-family: LibreBaskerville;
+    font-weight: 700;
+    src: url("/Fonts/LibreBaskerville/LibreBaskerville-Bold.otf") format("opentype"),
+   	url('/Fonts/LibreBaskerville/LibreBaskerville-Bold.woff') format('woff'), 
+   	url('/Fonts/LibreBaskerville/LibreBaskerville-Bold.ttf')  format('truetype');
+}

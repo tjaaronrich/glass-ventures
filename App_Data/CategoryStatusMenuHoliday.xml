@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<StatusList>
+	<Status StatusCode="Meats" StatusName="Meats" />
+	<Status StatusCode="Side Orders" StatusName="Side Orders" />
+	<Status StatusCode="Desserts" StatusName="Desserts" />
+</StatusList>

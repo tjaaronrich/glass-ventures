@@ -1,0 +1,20 @@
+
+@font-face {
+    font-family: BrandonGrotesque;
+    src: url("/Fonts/Brandon Grotesque/Brandon_reg.otf") format("opentype");
+}
+@font-face {
+    font-family: BrandonGrotesque;
+    font-weight: 300;
+    src: url("/Fonts/Brandon Grotesque/Brandon_light.otf") format("opentype");
+}
+@font-face {
+    font-family: BrandonGrotesque;
+    font-weight: 700;
+    src: url("/Fonts/Brandon Grotesque/Brandon_bld.otf") format("opentype");
+}
+@font-face {
+    font-family: BrandonGrotesque;
+    font-weight: 800;
+    src: url("/Fonts/Brandon Grotesque/Brandon_blk.otf") format("opentype");
+}
