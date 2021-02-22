@@ -70,27 +70,27 @@
 	<section>
 		<div class="container-fluid">
 			<div class="row d-flex flex-wrap align-items-center justify-content-center" style="padding: 100px 0; overflow: hidden;">
-				<a class="home-col-img" href="#" target=”_blank” style="background-image: url('Graphics/home-image-1.png'); background-size: cover;">
+				<a class="home-col-img" href="#" target=ï¿½_blankï¿½ style="background-image: url('Graphics/home-image-1.png'); background-size: cover;">
 					<h4 class="home-h4">Dolore magna</h5>
 					<p class="p-home">Lorem ipsum dolor sit amet, ipsum labitur lucilius mel id, ad has appareat.</p>
 					<div class="home-backs"></div>
 				</a>
-				<a class="home-col-img" href="#" target=”_blank” style="background-image: url('Graphics/home-image-2.png'); background-size: cover;">
+				<a class="home-col-img" href="#" target=ï¿½_blankï¿½ style="background-image: url('Graphics/home-image-2.png'); background-size: cover;">
 					<h4 class="home-h4">Dolore magna</h5>
 					<p class="p-home">Lorem ipsum dolor sit amet, ipsum labitur lucilius mel id, ad has appareat.</p>
 					<div class="home-backs left-20 left-50"></div>
 				</a>
-				<a class="home-col-img" href="#" target=”_blank” style="background-image: url('Graphics/home-image-3.png'); background-size: cover;">
+				<a class="home-col-img" href="#" target=ï¿½_blankï¿½ style="background-image: url('Graphics/home-image-3.png'); background-size: cover;">
 					<h4 class="home-h4">Dolore magna</h5>
 					<p class="p-home">Lorem ipsum dolor sit amet, ipsum labitur lucilius mel id, ad has appareat.</p>
 					<div class="home-backs left-40 top-30vh"></div>
 				</a>
-				<a class="home-col-img" href="#" target=”_blank” style="background-image: url('Graphics/home-image-4.png'); background-size: cover;">
+				<a class="home-col-img" href="#" target=ï¿½_blankï¿½ style="background-image: url('Graphics/home-image-4.png'); background-size: cover;">
 					<h4 class="home-h4">Dolore magna</h5>
 					<p class="p-home">Lorem ipsum dolor sit amet, ipsum labitur lucilius mel id, ad has appareat.</p>
 					<div class="home-backs left-60 left-50 top-30vh"></div>
 				</a>
-				<a class="home-col-img-2" href="#" target=”_blank” style="background-image: url('Graphics/home-image-5.png'); background-size: cover;">
+				<a class="home-col-img-2" href="#" target=ï¿½_blankï¿½ style="background-image: url('Graphics/home-image-5.png'); background-size: cover;">
 					<h4 class="home-h4">Dolore magna</h5>
 					<p class="p-home">Lorem ipsum dolor sit amet, ipsum labitur lucilius mel id, ad has appareat.</p>
 					<div class="home-backs left-80 wid-100 top-60vh"></div>
@@ -107,7 +107,7 @@
 					<div class="d-flex w-100 justify-content-between mb-1 mobile-flex-col">
 						<div>
 							<h2 class="mb-1 white-t">CONTACT</h2>
-							<p class="p-home">Schedule an appointment to visit our showroom, or if it’s more convenient for you we can visit your home for a free estimate.</p>
+							<p class="p-home">Schedule an appointment to visit our showroom, or if itï¿½s more convenient for you we can visit your home for a free estimate.</p>
 						</div>
 					</div>
 					
