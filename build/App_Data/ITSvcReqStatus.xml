@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ITSvcReqStatus>
+	<Status StatusCode="REQUESTED" StatusName="REQUESTED" />
+	<Status StatusCode="COMPLETED" StatusName="COMPLETED" />
+	<Status StatusCode="IN PROGRESS" StatusName="IN PROGRESS" />
+	<Status StatusCode="ON HOLD" StatusName="ON HOLD" />
+</ITSvcReqStatus>

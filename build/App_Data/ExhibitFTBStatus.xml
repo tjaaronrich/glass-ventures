@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ExhibitItemStatus>
+	<Status StatusCode="Active" StatusName="Active" />
+	<Status StatusCode="Inactive" StatusName="Inactive" />
+	<Status StatusCode="Pending" StatusName="Pending" />
+</ExhibitItemStatus>

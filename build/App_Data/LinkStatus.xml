@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LinkStatus>
+	<Status StatusCode="Legal" StatusName="Legal" />
+	<Status StatusCode="Business and Finance" StatusName="Business and Finance" />
+	<Status StatusCode="Government" StatusName="Government" />
+	<Status StatusCode="General" StatusName="General" />
+	<Status StatusCode="News" StatusName="News" />
+	<Status StatusCode="Search Engines" StatusName="Search Engines" />
+	<Status StatusCode="Related Links" StatusName="Related Links" />
+	<Status StatusCode="Information" StatusName="Information" />
+</LinkStatus>

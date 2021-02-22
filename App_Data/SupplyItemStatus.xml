@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<SupplyItemStatus>
-	<Status StatusCode="ACTIVE" StatusName="ACTIVE" />
-	<Status StatusCode="INACTIVE" StatusName="INACTIVE" />
-</SupplyItemStatus>

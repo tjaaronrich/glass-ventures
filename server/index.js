@@ -10,7 +10,12 @@ const ctrl = require("./controller");
 app.use(express.json());
 app.use(cors());
 
-app.use(express.static(`${__dirname}/../Default.aspx`));
+app.use(express.static(`${__dirname}/../build`));
+
+// app.get('/', function (req, res) {
+//   app.use(express.static(`${__dirname}/../Default.aspx`));
+//   // res.redirect(__dirname + '/Default.aspx');
+// });
 
 // get requests
 app.get("/api/database/:databaseName/:hostName", ctrl.getConnection);

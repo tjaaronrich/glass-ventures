@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<StatusList>
-	<Status StatusCode="Active" statusName="Active" />
-	<Status StatusCode="Inactive" statusName="Inactive" />
-</StatusList>

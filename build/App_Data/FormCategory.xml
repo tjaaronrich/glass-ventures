@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LinkStatus>
+	<Status StatusCode="Contracts" StatusName="Contracts" />
+	<Status StatusCode="Marketing and Sales" StatusName="Marketing and Sales" />
+	<Status StatusCode="Planning" StatusName="Planning" />
+	<Status StatusCode="Operations" StatusName="Operations" />
+	<Status StatusCode="Newsletters" StatusName="Newsletters" />
+	<Status StatusCode="ERPP" StatusName="ERPP" />
+</LinkStatus>

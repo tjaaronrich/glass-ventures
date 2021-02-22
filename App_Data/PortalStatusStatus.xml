@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<LinkStatus>
-	<Status StatusCode="Green" StatusName="Green" />
-	<Status StatusCode="Yellow" StatusName="Yellow" />
-	<Status StatusCode="Red" StatusName="Red" />
-</LinkStatus>

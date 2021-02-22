@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Status>
+	<Status PrimarySpecCode="" PrimarySpecName="None" />
+	<Status PrimarySpecCode="Autos" PrimarySpecName="Autos" />
+	<Status PrimarySpecCode="Electronics" PrimarySpecName="Electronics" />
+	<Status PrimarySpecCode="Education" PrimarySpecName="Education" />
+	<Status PrimarySpecCode="Entertainment and Arts" PrimarySpecName="Entertainment and Arts" />
+	<Status PrimarySpecCode="Food and Dining" PrimarySpecName="Food and Dining" />
+	<Status PrimarySpecCode="Community" PrimarySpecName="Community" />
+	<Status PrimarySpecCode="Health and Beauty" PrimarySpecName="Health and Beauty" />
+	<Status PrimarySpecCode="Home and Garden" PrimarySpecName="Home and Garden" />
+	<Status PrimarySpecCode="Legal and Financial" PrimarySpecName="Legal and Financial" />
+	<Status PrimarySpecCode="Professional Services" PrimarySpecName="Professional Services" />
+	<Status PrimarySpecCode="Real Estate" PrimarySpecName="Real Estate" />
+	<Status PrimarySpecCode="Recreation" PrimarySpecName="Recreation" />
+	<Status PrimarySpecCode="Retail Shopping" PrimarySpecName="Retail Shopping" />
+	<Status PrimarySpecCode="Travel and Lodging" PrimarySpecName="Travel and Lodging" />
+	<Status PrimarySpecCode="Business to Business" PrimarySpecName="Business to Business" />
+</Status>

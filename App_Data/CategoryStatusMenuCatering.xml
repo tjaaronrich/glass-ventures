@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<StatusList>
-	<Status StatusCode="Trays" StatusName="Trays" />
-	<Status StatusCode="Hot Items" StatusName="Hot Items" />
-	<Status StatusCode="Cold Canapes" StatusName="Cold Canapes" />
-	<Status StatusCode="Spiral Sliced Hams" StatusName="Spiral Sliced Hams" />
-</StatusList>

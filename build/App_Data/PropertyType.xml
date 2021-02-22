@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CategoryStatus>
+	<Status StatusCode="Condo" StatusName="Condo" />
+	<Status StatusCode="House" StatusName="House" />
+	<Status StatusCode="Town Home" StatusName="Town Home" />
+</CategoryStatus>

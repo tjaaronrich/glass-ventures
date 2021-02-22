@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<StatusList>
-	<Status StatusCode="Deli Sandwiches" StatusName="Deli Sandwiches" />
-	<Status StatusCode="Side Orders" StatusName="Side Orders" />
-	<Status StatusCode="Cobblers" StatusName="Cobblers" />
-	<Status StatusCode="Desserts" StatusName="Desserts" />
-</StatusList>

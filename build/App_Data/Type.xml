@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ItemStatus>
+	<Status StatusCode="Select an Option..." StatusName="Select an Option..." />
+	<Status StatusCode="General Success Story Recommendation" StatusName="General Success Story Recommendation" />
+	<Status StatusCode="I Found a Job" StatusName="I Found a Job" />
+	<Status StatusCode="The WorkForce Board Helped My Company" StatusName="The WorkForce Board Helped My Company" />
+</ItemStatus>

@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<FeaturedEventsStatus>
-	<Status StatusCode="Monthly" StatusName="Monthly" />
-	<Status StatusCode="Annual" StatusName="Annual" />
-</FeaturedEventsStatus>

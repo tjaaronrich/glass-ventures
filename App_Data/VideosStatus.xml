@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<VideosItemStatus>
-	<Status StatusCode="Active" StatusName="Active" />
-	<Status StatusCode="Inactive" StatusName="Inactive" />
-</VideosItemStatus>
